@@ -1,3 +1,7 @@
+# Example Ruby Testbed
+
+(Created in response to [this Reddit post](http://www.reddit.com/r/ruby/comments/30igbo/is_there_a_tool_like_firebug_for_ruby/))
+
 First off, it's helpful to "own" your own directory structure.  Here's what usually shows up in my testbeds:
 
     /.ruby-version
